@@ -1,0 +1,63 @@
+{
+    "mon_hoc": "Kỹ năng Công dân số",
+    "lop": 1,
+    "chu_de": [
+        {
+            "ten": "Máy tính và em",
+            "bai": [
+                {
+                    "ten_bai": "Máy tính là gì?",
+                    "so_tiet": 2,
+                    "dang_bai": "LT",
+                    "yeu_cau_can_dat": [
+                        "Nhận ra các bộ phận của máy tính.",
+                        "Nhận ra máy tính có nhiều hình dạng và kích cỡ khác nhau."
+                    ],
+                    "tu_lieu_bo_sung": [
+                        "https://www.bbc.co.uk/bitesize/topics/zymykqt/articles/z9myvcw",
+                        "Cambridge (trang 19)"
+                    ]
+                },
+                {
+                    "ten_bai": "Bật / tắt máy tính",
+                    "so_tiet": 2,
+                    "dang_bai": "LT+TH",
+                    "yeu_cau_can_dat": [
+                        "Biết ngồi đúng tư thế khi sử dụng máy tính",
+                        "Biết cách bật máy tính.",
+                        "Biết cách tắt máy tính bằng cách sử dụng chuột",
+                        "Thực hiện nội quy phòng máy tính"
+                    ],
+                    "mo_rong": "Biết cách tắt màn hình điện thoại thông minh và nói với người lớn khi không sử dụng nữa.",
+                    "tu_lieu_bo_sung": [
+                        "Xem bài 4 lớp 3 sách KNTT Tập huấn - Nhà xuất bản Giáo dục Việt Nam (nxbgd.vn)"
+                    ]
+                },
+                {
+                    "ten_bai": "Sử dụng chuột máy tính",
+                    "so_tiet": 2,
+                    "dang_bai": "TH",
+                    "yeu_cau_can_dat": [
+                        "Thực hiện được các thao tác di chuyển, nháy trái và phải, nháy kép và kéo thả chuột."
+                    ],
+                    "mo_rong": "Nhận ra các thao tác chạm vuốt trên điện thoại thông minh giống như dùng chuột của máy tính.",
+                    "tu_lieu_bo_sung": [
+                        "https://www.bbc.co.uk/bitesize/articles/zjnrkhv"
+                    ]
+                },
+                {
+                    "ten_bai": "An toàn thiết bị khi sử dụng máy tính",
+                    "so_tiet": 2,
+                    "dang_bai": "LT",
+                    "yeu_cau_can_dat": [
+                        "HS tránh được những hành vi gây mất an toàn cho bản thân và thiết bị.",
+                        "Sử dụng các thiết bị điện tử điều độ như không chơi game/nghe nhạc quá bao nhiêu tiếng một ngày.",
+                        "Không vừa sạc vừa dùng/nghe điện thoại.",
+                        "Biết báo bố mẹ khi thấy không an toàn",
+                        "HS biết phải làm gì khi cảm thấy không an toàn và không thoải mái trong lúc dùng máy tính"
+                    ]
+                }
+            ]
+        }
+    ]
+}
